@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\!\u041A\u043E\u043B\u043B\u0435\u0434\u0436\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B \u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u044F!\\403 \u0433\u0440\u0443\u043F\u043F\u0430\\!\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430!\\\u041F\u041C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6BE59C-92E8-41F4-ADD8-7F0C83C6CF08}|\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C.csproj|d:\\!\u043A\u043E\u043B\u043B\u0435\u0434\u0436\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B \u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u044F!\\403 \u0433\u0440\u0443\u043F\u043F\u0430\\!\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430!\\\u043F\u043C\\\u043E\u043E\u043E \u0440\u0438\u0442\u043C\\\u043E\u043E\u043E \u0440\u0438\u0442\u043C\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED6BE59C-92E8-41F4-ADD8-7F0C83C6CF08}|\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C.csproj|solutionrelative:\u043E\u043E\u043E \u0440\u0438\u0442\u043C\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\!\u041A\u043E\u043B\u043B\u0435\u0434\u0436\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B \u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u044F!\\403 \u0433\u0440\u0443\u043F\u043F\u0430\\!\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430!\\\u041F\u041C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\MainWindow.xaml",
+              "ToolTip": "D:\\!\u041A\u043E\u043B\u043B\u0435\u0434\u0436\u043D\u044B\u0435 \u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B \u0438 \u0437\u0430\u0434\u0430\u043D\u0438\u044F!\\403 \u0433\u0440\u0443\u043F\u043F\u0430\\!\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430!\\\u041F\u041C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\MainWindow.xaml",
+              "RelativeToolTip": "\u041E\u041E\u041E \u0420\u0438\u0442\u043C\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T21:28:39.399Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
